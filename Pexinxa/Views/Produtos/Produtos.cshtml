@@ -1,0 +1,643 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor;
+
+@using Pexinxa.Views
+
+@{
+    //var menuSuperior = Funcao.MenuSuperior();
+    //var menuInferior = Funcao.MenuInferior();
+    ViewData["Title"] = "Pexinxa - Produtos";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> @ViewData["Title"] </title>
+
+    <link href="~/images/logo_icon.png" rel="stylesheet" />
+
+
+    <!-- funçoes JavaScrip -->
+    <script src="~/js/Funcoes.js"></script>
+
+    <!-- CSS do Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+
+    <!-- JS, Popper.js e jQuery do Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+    <!--Arquivo CSS da página -->
+
+
+    <link href="~/css/estiloMenu.css" rel="stylesheet" />
+    <link href="~/css/estiloHome.css" rel="stylesheet" />
+    <link href="~/css/estiloProduto.css" rel="stylesheet" />
+    <link href="~/css/estiloCadastro.css" rel="stylesheet" />
+    <link href="~/css/estiloFooter.css" rel="stylesheet" />
+
+
+    <!-- icons do google -->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <!-- font montserrat google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Patrick+Hand+SC&family=Roboto:ital,wght@1,100&display=swap"
+          rel="stylesheet">
+
+    <!-- O script abaixo é para as categorias dos produtos que ficarão fixa na pagina -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('a').click(function () {
+                $('a').removeClass("active");
+                $(this).addClass("active");
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <header>
+        <div id="menusup">
+            <img id="menusup" src="~/images/logo_icon.png" alt="imagem logo pexinxa">
+            <img id="menusup2" src="~/images/logotipo.png" alt="imagem logotipo pexinxa ">
+            @{
+                if (string.IsNullOrWhiteSpace(HttpContextAccessor.HttpContext?.Session.GetString("Email")) && string.IsNullOrWhiteSpace(HttpContextAccessor.HttpContext?.Session.GetString("Senha")))
+                {
+                    <div id='log_cad_box'>
+                        <span class='material-symbols-outlined'>Account_Circle</span>
+                        <p id='log_cad'><a asp-area="" asp-controller="Pessoa" asp-action="Create" id='log_cad'>cadastre-se</a> ou faça <a asp-controller="Login" asp-action="Login" id='log_cad'>login</a></p>
+                    </div>
+                }
+                else
+                {
+                    <div style=" float: right">
+                        <p id="id='menu_inf2'" style="font-size: 15px; font-weight: bolder;"><a asp-controller="Login" asp-action="Logout" style="color: white"><span class="material-symbols-outlined">logout</span> Logout</a></p>
+                    </div>
+                }
+            }
+
+
+            <div id='barrapesquisa'>
+
+                <input style="margin-left: 180px" id='pesquisa' type='text' name='barrapesquisa' placeholder='🔍︎ O que você está procurando?' onkeyup='search()'>
+                </input>
+
+            </div>
+
+            <div id="menuinferior2">
+                <ul id="ulmenuinf">
+
+
+                    @{
+                        if (string.IsNullOrWhiteSpace(HttpContextAccessor.HttpContext?.Session.GetString("Email")) && string.IsNullOrWhiteSpace(HttpContextAccessor.HttpContext?.Session.GetString("Senha")))
+                        {
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Home" asp-action="Index" id='menu_inf2'><span class="material-symbols-outlined">home</span>HOME</a></li>
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Produtos" asp-action="Produtos" id='menu_inf2'><span class="material-symbols-outlined">Shopping_cart</span>PRODUTOS</a></li>
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Mercados" asp-action="Mercado" id="menu_inf2"><span class="material-symbols-outlined">storefront</span>MERCADOS</a></li>
+                        }
+                        else
+                        {
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Home" asp-action="Index" id='menu_inf2'><span class="material-symbols-outlined">home</span>HOME</a></li>
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Produtos" asp-action="Produtos" id='menu_inf2'><span class="material-symbols-outlined">Shopping_cart</span>PRODUTOS</a></li>
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Mercados" asp-action="Mercado" id="menu_inf2"><span class="material-symbols-outlined">storefront</span>MERCADOS</a></li>
+                            <li id="limenuinf2"><a asp-area="" asp-controller="Lista" asp-action="Lista" id="menu_inf2"><span class='material-symbols-outlined'>receipt_long</span>LISTA</a></li>
+
+                            if (!string.IsNullOrWhiteSpace(HttpContextAccessor.HttpContext?.Session.GetString("admin")))
+                            {
+
+                                <li id="limenuinf2"><a asp-area="" asp-controller="Pessoa" asp-action="Index" id="menu_inf2"> <span class='material-symbols-outlined'>person</span>PESSOA</a></li>
+                            }
+                        }
+                    }
+                </ul>
+            </div>
+
+            <div id='localizacao'>
+                <span class='material-symbols-outlined'>location_on</span><p id='loc'>AV. Judas perdeu as botas, 05 - Matão</p>
+
+            </div>
+
+        </div>
+    </header>
+
+    <div id="cat">
+        <ul>
+            <li><a href="#al">básicos</a></li>
+            <li><a href="#bebidas">bebidas</a></li>
+            <li><a href="#carnes">carnes</a></li>
+            <li><a href="#cereais">cereais</a></li>
+            <li><a href="#congelados">congelados</a></li>
+            <li><a href="#frios">frios</a></li>
+            <li><a href="#horti">hortifruti</a></li>
+            <li><a href="#limp">limpeza</a></li>
+            <li><a href="#mc">condimentos</a></li>
+            <li><a href="#pad">padaria</a></li>
+        </ul>
+
+    </div>
+
+    <container>
+        <a name="al"><h1 class="categorias">Alimentos básicos</h1></a>
+        <div class="box-prod">
+
+            <div class="produtos" data-name="Feijão Carioca Tipo 1 Camil Pacote 1kg" data-market="Amarelão supermercado" data-price="preco" id="prod">
+                <img class="img_produto" src="https://acdn.mitiendanube.com/stores/455/258/products/feijao-anchieta-carioca-t1-1kg1-f9595db5a9c1a6b38115277158104518-640-0.webp">
+
+                <p class="mercado"> <img class="img_mercado" src="~/images/amarelao.png">Amarelão supermercado </p>
+
+                <p class="desc_prod">Feijão Carioca Tipo 1 Camil Pacote 1kg</p>
+                <p class="preco">
+                    R$ 5,00<span class="material-symbols-outlined">add_notes</span>
+                </p>
+            </div>
+
+
+            <div class="produtos" data-name="Arroz Branco Tipo 1 Reserva Especial Camil Premium Pacote 1kg" data-market="Barraca Atacado" data-price="6,00" id="prod">
+                <img class="img_produto" src="https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/arroz-branco-camil-reserva-especial-1kg-768x768.jpg">
+
+                <p class="mercado"> <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado </p>
+
+                <p class="desc_prod">Arroz Branco Tipo 1 Reserva Especial Camil Premium Pacote 1kg</p>
+                <p class="preco">
+                    R$ 6,00<span class="material-symbols-outlined">add_notes</span>
+                </p>
+            </div>
+
+            <div class="produtos" data-name="Açúcar Refinado Especial União Pacote 1kg" data-market="Sonia Supermercado" data-price="2,00" id="prod">
+                <img class="img_produto" src="https://carrefourbrfood.vtexassets.com/arquivos/ids/110671124/acucar-refinado-uniao-1kg-1.jpg?v=638182056322230000">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Açúcar Refinado Especial União Pacote 1kg</p>
+                <p class="preco">R$ 2,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Óleo de Girassol Tipo 1 Soya Garrafa 900ml" data-market="Pão de Sal" data-price="10,00" id="prod">
+                <img class="img_produto" src="https://www.soya.com.br/media/dsuph0so/girassol-v2-2.png?mode=max">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Óleo de Girassol Tipo 1 Soya Garrafa 900ml</p>
+                <p class="preco">R$ 10,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+        </div>
+
+        <a name="bebidas"><h1 class="categorias">Bebidas</h1></a>
+        <div class="box-prod">
+
+
+            <div class="produtos" data-name="Guaraná Antarctica 1L" data-market="Amarelão Supermercado" data-price="3,00" id="prod">
+                <img class="img_produto" src="https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/4614-refrigerante-guarana-antarctica-1l.jpg?s=2669d390339ae490d3c7b73d3d92fb85">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Guaraná Antarctica 1L</p>
+                <p class="preco">R$ 3,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+            <div class="produtos" data-name="Suco de Laranja Integral Prat's 900ml" data-market="Sonia Supermercado" data-price="8,00" id="prod">
+                <img class="img_produto" src="https://rafasupervarejao.com.br/1003-large_default/7898953148169-suco-de-laranja-integral-prats-900ml.jpg">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Suco de Laranja Integral Prat's 900ml</p>
+                <p class="preco">R$ 8,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Energético Monster Energy Juice Khaos 473ml" data-market="Sonia Supermercado" data-price="6,00" id="prod">
+                <img class="img_produto" src="https://supermercadobomdemais.com.br/wp-content/uploads/2020/05/Energ%C3%A9tico-Monster-Energy-Juice-473.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Energético Monster Energy Juice Khaos 473ml</p>
+                <p class="preco">R$ 6,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+            <div class="produtos" data-name="Cerveja Brahma Duplo Malte pack c15" data-market="Barraca Atacado" data-price="25,00" id="prod">
+                <img class="img_produto" src="https://www.supermercadosbh.com.br/wp-content/uploads/2020/10/Cerveja-Brahma-Duplo-Malte-pack-c15-540x450.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Cerveja Brahma Duplo Malte pack c15</p>
+                <p class="preco">R$ 25,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+
+        </div>
+
+
+        <a name="carnes"><h1 class="categorias">Carnes</h1></a>
+        <div class="box-prod">
+
+
+
+            <div class="produtos" data-name="Picanha Premium 1kg" data-market="Pão de Sal" data-price="100,00" id="prod">
+                <img class="img_produto" src="https://static.vecteezy.com/system/resources/previews/021/217/219/non_2x/steak-rotisserie-at-the-steakhouse-sliced-picanha-picanha-png.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Picanha Premium 1kg</p>
+                <p class="preco">R$ 100,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Linguiça de Carne Suína - Frimesa" data-market="Amarelão Supermercado" data-price="150,00" id="prod">
+                <img class="img_produto" src="https://www.frimesa.com.br/upload/image/product/linguicas-carne-suina1-42-77.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Linguiça de Carne Suína - Frimesa</p>
+                <p class="preco">R$ 150,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Músculo Especial Swift Beit" data-market="Sonia Supermercado" data-price="40,00" id="prod">
+                <img class="img_produto" src="https://swiftbr.vteximg.com.br/arquivos/ids/168202-768-768/musculo-especial-swift-beit-616378-3.png?v=637365511634300000">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Músculo Especial Swift Beit</p>
+                <p class="preco">R$ 40,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+
+            <div class="produtos" data-name="Cordão do Filé Mignon" data-market="Sonia Supermercado" data-price="55,00" id="prod">
+                <img class="img_produto" src="https://future-brand-frib.s3.amazonaws.com/large_CORDAO_DO_FILE_MIGNON_RESF_789830229159_1fd00281ea.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Cordão do Filé Mignon</p>
+                <p class="preco">R$ 55,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+
+
+        </div>
+
+        <a name="cereais"><h1 class="categorias">Cereais</h1></a>
+        <div class="box-prod">
+
+
+
+            <div class="produtos" data-name="Monama - Granola Salgada" data-market="Pão de Sal" data-price="10,00" id="prod">
+                <img class="img_produto" src="https://monama.com.br/wp-content/uploads/2021/05/mockup-granola-salgada.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Monama - Granola Salgada</p>
+                <p class="preco">R$ 10,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Barra de Cereais - Castanha de Caju com Chocolate" data-market="Barraca Atacado" data-price="3,00" id="prod">
+                <img class="img_produto" src="https://www.saobraz.com.br/files/product/168176953172-produto1.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Barra de Cereais - Castanha de Caju com Chocolate</p>
+                <p class="preco">R$ 3,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Sucrilhos Power 250g" data-market="Sonia Supermercado" data-price="7,00" id="prod">
+                <img class="img_produto" src="https://images.kglobalservices.com/www.kelloggs.com.br/pt_br/product/product_2902351/prod_img-3535573_mockup_power-pops-orig250g.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Sucrilhos Power 250g</p>
+                <p class="preco">R$ 7,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Gergelim Branco" data-market="Pão de Sal" data-price="5,00" id="prod">
+                <img class="img_produto" src="https://tiasonia.com.br/img/produtos_cat/ts-gergelim-branco-mockup-b01-1-1-gergelim-branco-1000px-1.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Gergelim Branco</p>
+                <p class="preco">R$ 5,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+        </div>
+
+        <a name="congelados"><h1 class="categorias">Congelados</h1></a>
+        <div class="box-prod">
+
+
+            <div class="produtos" data-name="Filé de Peito Seara Soltinho Congelado IQF 1KG" data-market="Barraca Atacado" data-price="15,00" id="prod">
+                <img class="img_produto" src="https://media.soujusto.com.br/products/10603___.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Filé de Peito Seara Soltinho Congelado IQF 1KG</p>
+                <p class="preco">R$ 15,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+            <div class="produtos" data-name="Mix Tradicional Congelado Grano 1kg" data-market="Amarelão Supermercado" data-price="14,65" id="prod">
+                <img class="img_produto" src="https://static.wixstatic.com/media/36c46c_2ee5e02d23b3458f8c7e89d3136607bf~mv2.png/v1/fit/w_500,h_500,q_90/file.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Mix Tradicional Congelado Grano 1kg</p>
+                <p class="preco">R$ 14,65<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Coxinha de Frango - Pif Paf" data-market="Sonia Supermercado" data-price="16,00" id="prod">
+                <img class="img_produto" src="https://pifpaf.com.br/wp-content/uploads/2022/05/AF-mkp-coxinha-de-frango.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Coxinha de Frango - Pif Paf</p>
+                <p class="preco">R$ 16,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+            <div class="produtos" data-name="Batata Palito Congelada Sadia 400g" data-market="Sonia" data-price="15,50" id="prod">
+                <img class="img_produto" src="https://tdc01z.vteximg.com.br/arquivos/ids/160698-1000-1000/24723-batata-palito-congelada-sadia-400g.png?v=637897735403970000">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia
+                </p>
+                <p class="desc_prod">Batata Palito Congelada Sadia 400g</p>
+                <p class="preco">R$ 15,50<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+
+        </div>
+
+        </div>
+
+
+        <a name="frios"><h1 class="categorias">Frios</h1></a>
+        <div class="box-prod">
+
+            <div class="produtos" data-name="Queijo Mussarela Fatiado Tirol 400g" data-market="Amarelão Supermercado" data-price="6,75" id="prod">
+                <img class="img_produto" src="https://d21wiczbqxib04.cloudfront.net/pfIRnV5pZAyX_GWmGQyprmW3tWw=/1600x0/smart/https://produtos-osuper.s3.sa-east-1.amazonaws.com/7896256600544.jpg">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Queijo Mussarela Fatiado Tirol 400g</p>
+                <p class="preco">R$ 6,75<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Presunto Fatiado Seara 180g" data-market="Pão de Sal" data-price="5,95" id="prod">
+                <img class="img_produto" src="https://ibassets.com.br/ib.item.image.big/b-259d11b81a2f4299bbc51805ece06b9c.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Presunto Fatiado Seara 180g</p>
+                <p class="preco">R$ 5,95<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Salsicha Hot Dog Nobre Granel - Porção 500g" data-market="Sonia Supermercado" data-price="8,18" id="prod">
+                <img class="img_produto" src="https://tdc0wy.vteximg.com.br/arquivos/ids/161431-1000-1000/SALSICHA-HOT-DOG-NOBRE-GRANEL---Porcao-500g.png?v=638176768586030000">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Salsicha Hot Dog Nobre Granel - Porção 500g</p>
+                <p class="preco">R$ 8,18<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+            <div class="produtos" data-name="Peito de Peru Defumado Fatiado Sadia 200g" data-market="Barraca Atacado" data-price="9,28" id="prod">
+                <img class="img_produto" src="https://d246rzh6rlbt6w.cloudfront.net/img.produtos/7891515433703/img_1200_1.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Peito de Peru Defumado Fatiado Sadia 200g</p>
+                <p class="preco">R$ 9,28<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+
+        </div>
+
+        <a name="horti"><h1 class="categorias">Hortifruti</h1></a>
+        <div class="box-prod">
+
+
+            <div class="produtos" data-name="Tomate (1kg)" data-market="Amarelão Supermercado" data-price="15,28" id="prod">
+                <img class="img_produto" src="https://saovicente.tinocosupermercados.com.br/wp-content/uploads/2022/11/tomate-longa-vida1-e12545f3c4985942a915417674167711-640-0.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Tomate (1kg)</p>
+                <p class="preco">R$ 15,28<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Alface" data-market="Amarelão Supermercado" data-price="2,00" id="prod">
+                <img class="img_produto" src="https://blueseeds.com.br/wp-content/uploads/2018/08/AC0063.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Alface</p>
+                <p class="preco">R$ 2,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Cheiro Verde Jan Jan Embalado" data-market="Sonia Supermercado" data-price="1,63" id="prod">
+                <img class="img_produto" src="https://cdn-cosmos.bluesoft.com.br/products/7896148200043">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Cheiro Verde Jan Jan Embalado</p>
+                <p class="preco">R$ 1,63<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Maçã da Branca de Neve (1kg)" data-market="Pão de Sal" data-price="10,00" id="prod">
+                <img class="img_produto" src="https://static.vecteezy.com/system/resources/previews/009/887/176/original/red-apples-free-png.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Maçã da Branca de Neve (1kg)</p>
+                <p class="preco">R$ 10,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+        </div>
+
+        <a name="limp"><h1 class="categorias">Limpeza</h1></a>
+        <div class="box-prod">
+
+
+
+
+            <div class="produtos" data-name="Água Sanitária Qboa 5 Litros" data-market="Amarelão Supermercado" data-price="7,54" id="prod">
+                <img class="img_produto" src="https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/0/50aeda01d7e1b0a1a949f0585b10204972cb2c.png_2.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Água Sanitária Qboa 5 Litros</p>
+                <p class="preco">R$ 7,54<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Sabão em Pó Omo 800g" data-market="Amarelão Supermercado" data-price="10,00" id="prod">
+                <img class="img_produto" src="https://protelimp.com.br/wp-content/uploads/2017/08/sabao-em-po-omo-800g.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Sabão em Pó Omo 800g</p>
+                <p class="preco">R$ 10,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Detergente Líquido Ypê - Frasco de 500 ml" data-market="Barraca Atacado" data-price="2,63" id="prod">
+                <img class="img_produto" src="https://beagaembalagem.com.br/wp-content/uploads/2014/09/detergente-yp%C3%AA.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Detergente Líquido Ypê - Frasco de 500 ml</p>
+                <p class="preco">R$ 2,63<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Esponja Starlux Multiuso (1 unidade)" data-market="Sonia Supermercado" data-price="3,48" id="prod">
+                <img class="img_produto" src="https://storage.googleapis.com/phygital_files/supersantafe/uploads/produto/esponja_starlux_multiuso_1un_000a5c0f-b50b-4f47-8f11-25a7d69f373f.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Esponja Starlux Multiuso (1 unidade)</p>
+                <p class="preco">R$ 3,48<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+        </div>
+
+        <a name="mc"><h1 class="categorias">Molhos e condimentos</h1></a>
+        <div class="box-prod">
+
+
+            <div class="produtos" data-name="Molho de Tomate Tradicional Heinz 300g" data-market="Sonia Supermercado" data-price="2,54" id="prod">
+                <img class="img_produto" src="https://d3ldzx7fxfvsfy.cloudfront.net/198/studio/assets/v1670310551796_1655944915/Mockup-Heinz-Molho-Tradicional-300g.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="imagens\sonia.png">Sonia Supermercado
+                </p>
+                <p class="desc_prod">Molho de Tomate Tradicional Heinz 300g</p>
+                <p class="preco">R$ 2,54<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Maionese Hellmann's Tradicional Squeeze 335g" data-market="Amarelão Supermercado" data-price="8,06" id="prod">
+                <img class="img_produto" src="https://upside.vteximg.com.br/arquivos/ids/173719-1000-1000/33778.png?v=637668246224870000">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Maionese Hellmann's Tradicional Squeeze 335g</p>
+                <p class="preco">R$ 8,06<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Barbecue Hellmann's Tradicional 400g" data-market="Barraca Atacado" data-price="8,63" id="prod">
+                <img class="img_produto" src="https://assets.unileversolutions.com/v1/112100357.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Barbecue Hellmann's Tradicional 400g</p>
+                <p class="preco">R$ 8,63<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Mostarda Heinz Tradicional 255g" data-market="Barraca Atacado" data-price="19,00" id="prod">
+                <img class="img_produto" src="https://static.paodeacucar.com/img/uploads/1/69/3344069.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Barraca Atacado
+                </p>
+                <p class="desc_prod">Mostarda Heinz Tradicional 255g</p>
+                <p class="preco">R$ 19,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+        </div>
+
+        <a name="pad"><h1 class="categorias">Padaria</h1></a>
+        <div class="box-prod">
+
+
+            <div class="produtos" data-name="Pão Francês Integral (1kg)" data-market="Amarelão Supermercado" data-price="20,54" id="prod">
+                <img class="img_produto" src="https://storage.googleapis.com/phygital_files/padaria-superpao/uploads/produto/pao_frances_integral_kg_9ddfb8d4-e483-49c6-8275-3669f49618a3.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Amarelão Supermercado
+                </p>
+                <p class="desc_prod">Pão Francês Integral (1kg)</p>
+                <p class="preco">R$ 20,54<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Pão de Forma Tradicional Wickbold Pacote 450g" data-market="Pão de Sal" data-price="9,06" id="prod">
+                <img class="img_produto" src="https://ibassets.com.br/ib.item.image.large/l-e95e2495b6b5497fb44e370e79f8698e.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Pão de Forma Tradicional Wickbold Pacote 450g</p>
+                <p class="preco">R$ 9,06<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Sonho Recheado (unidade)" data-market="Pão de Sal" data-price="2,50" id="prod">
+                <img class="img_produto" src="https://www.big2be.com.br/products/0000000010238_techa.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Sonho Recheado</p>
+                <p class="preco">R$ 2,50<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+
+            <div class="produtos" data-name="Donuts Ring com Cobertura Pink (unidade)" data-market="Pão de Sal" data-price="3,00" id="prod">
+                <img class="img_produto" src="https://donutssugaresugar.com.br/wp-content/uploads/2022/07/donuts_sugar_e_sugar_categoria_donuts.png">
+                <p class="mercado">
+                    <img class="img_mercado" src="~/images/amarelao.png">Pão de Sal
+                </p>
+                <p class="desc_prod">Donuts Ring com Cobertura Pink</p>
+                <p class="preco">R$ 3,00<span class="material-symbols-outlined">add_notes</span></p>
+            </div>
+
+        </div>
+    </container>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+    <footer>
+        <img width=125px id='logo_footer' src='~/images/logotipo.png' alt='Logo'><p>Criado por: equipe Pexinxa</p>
+
+        <div class='social'>
+            <a id='icon_media' href='#'><img src='https://cdn2.iconfinder.com/data/icons/social-networks-18/100/Instagram_logo-256.png' alt='Instagram'></a>
+            <a id='icon_media' href='#'><img src='https://cdn0.iconfinder.com/data/icons/brands-outlined-3/194/facebook-social-network-brand-logo-256.png' alt='Facebook'></a>
+            <a id='icon_media' href='#'><img src='https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png' alt='Twitter/ X'></a>
+        </div>
+    </footer>
+
+</body>
+</html>

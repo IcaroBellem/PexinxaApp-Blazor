@@ -1,0 +1,49 @@
+﻿footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #a7a7a7;
+    padding: 10px 30px 10px 30px;
+    margin-top: 15px;
+}
+
+.logo_footer img {
+    width: 10px;
+}
+
+.social img {
+    width: 25px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 530 e menor que 1260 pixels tablet
+*/
+@media screen and (min-width:530px) and (max-width:1260px) {
+    picture#intro img {
+        width: 60%;
+    }
+}
+
+/* 
+      ------------------RESPONSIVIDADE FOOTER--------------------------------------------------------------------------------------------------------------------------------------------
+                    Quando a largura da tela é menor que 768 pixels
+  */
+@media (max-width: 768px) {
+    footer {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .logo_footer img {
+        margin-bottom: 10px;
+    }
+
+    .social img {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+}

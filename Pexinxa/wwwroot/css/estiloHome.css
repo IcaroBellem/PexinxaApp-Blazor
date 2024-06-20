@@ -1,0 +1,51 @@
+/*carrossel*/
+#meuCarrossel {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.carousel-item img {
+    width: 70%;
+    max-width: 100%;
+}
+
+picture#intro {
+    display: flex;
+    justify-content: center;
+}
+
+/*div passo a passo*/
+div#featured-3 {
+    padding: 0px 10px 0px 10px;
+}
+
+/*h1 passo a passo*/
+h1.pb-2.border-bottom {
+    font-size: 25px;
+}
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 530 e menor que 1260 pixels tablet
+*/
+@media screen and (min-width:530px) and (max-width:1260px) {
+    .carousel-item img {
+        width: 60%;
+        max-width: 80%;
+    }
+}
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 1260px desktop
+*/
+@media screen and (min-width:1260px) {
+    /*h1 passo a passo*/
+    h1.pb-2.border-bottom {
+        font-size: 60px;
+    }
+}

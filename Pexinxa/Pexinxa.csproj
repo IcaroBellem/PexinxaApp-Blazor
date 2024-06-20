@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\amarelao.png" />
+    <Content Remove="wwwroot\images\americanos.svg" />
+    <Content Remove="wwwroot\images\assala.png" />
+    <Content Remove="wwwroot\images\barraca.png" />
+    <Content Remove="wwwroot\images\c1.png" />
+    <Content Remove="wwwroot\images\cadastro.svg" />
+    <Content Remove="wwwroot\images\carrossel\c1m.svg" />
+    <Content Remove="wwwroot\images\carrossel\c1t.svg" />
+    <Content Remove="wwwroot\images\carrossel\c2d.svg" />
+    <Content Remove="wwwroot\images\carrossel\c2m.svg" />
+    <Content Remove="wwwroot\images\carrossel\c2t.svg" />
+    <Content Remove="wwwroot\images\carrossel\c3d.svg" />
+    <Content Remove="wwwroot\images\carrossel\c3m.svg" />
+    <Content Remove="wwwroot\images\carrossel\c3t.svg" />
+    <Content Remove="wwwroot\images\div1.svg" />
+    <Content Remove="wwwroot\images\div1mobile.svg" />
+    <Content Remove="wwwroot\images\lixo.png" />
+    <Content Remove="wwwroot\images\logo.png" />
+    <Content Remove="wwwroot\images\logotipo.png" />
+    <Content Remove="wwwroot\images\logo_icon.png" />
+    <Content Remove="wwwroot\images\lupa.svg" />
+    <Content Remove="wwwroot\images\paodesal.png" />
+    <Content Remove="wwwroot\images\retangulo1.png" />
+    <Content Remove="wwwroot\images\retangulo2.png" />
+    <Content Remove="wwwroot\images\retangulo3.png" />
+    <Content Remove="wwwroot\images\retangulo4.png" />
+    <Content Remove="wwwroot\images\retangulo5.png" />
+    <Content Remove="wwwroot\images\retangulo6.png" />
+    <Content Remove="wwwroot\images\small.svg" />
+    <Content Remove="wwwroot\images\sonia.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\amarelao.png" />
+    <None Include="wwwroot\images\americanos.svg" />
+    <None Include="wwwroot\images\assala.png" />
+    <None Include="wwwroot\images\barraca.png" />
+    <None Include="wwwroot\images\c1.png" />
+    <None Include="wwwroot\images\cadastro.svg" />
+    <None Include="wwwroot\images\carrossel\c1m.svg" />
+    <None Include="wwwroot\images\carrossel\c1t.svg" />
+    <None Include="wwwroot\images\carrossel\c2d.svg" />
+    <None Include="wwwroot\images\carrossel\c2m.svg" />
+    <None Include="wwwroot\images\carrossel\c2t.svg" />
+    <None Include="wwwroot\images\carrossel\c3d.svg" />
+    <None Include="wwwroot\images\carrossel\c3m.svg" />
+    <None Include="wwwroot\images\carrossel\c3t.svg" />
+    <None Include="wwwroot\images\div1.svg" />
+    <None Include="wwwroot\images\div1mobile.svg" />
+    <None Include="wwwroot\images\lixo.png" />
+    <None Include="wwwroot\images\logo.png" />
+    <None Include="wwwroot\images\logotipo.png" />
+    <None Include="wwwroot\images\logo_icon.png" />
+    <None Include="wwwroot\images\lupa.svg" />
+    <None Include="wwwroot\images\paodesal.png" />
+    <None Include="wwwroot\images\retangulo1.png" />
+    <None Include="wwwroot\images\retangulo2.png" />
+    <None Include="wwwroot\images\retangulo3.png" />
+    <None Include="wwwroot\images\retangulo4.png" />
+    <None Include="wwwroot\images\retangulo5.png" />
+    <None Include="wwwroot\images\retangulo6.png" />
+    <None Include="wwwroot\images\small.svg" />
+    <None Include="wwwroot\images\sonia.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

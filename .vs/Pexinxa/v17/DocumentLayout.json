@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\repositories\\ado\\sqlserver\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\repositories\\ado\\sqlserver\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\mercados\\mercado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\mercados\\mercado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\produtos\\produtos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\produtos\\produtos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\repositories\\ado\\sqlserver\\emaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\repositories\\ado\\sqlserver\\emaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\repositories\\ado\\sqlserver\\eniveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\repositories\\ado\\sqlserver\\eniveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\lista\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\lista\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\wwwroot\\css\\estilomenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\wwwroot\\css\\estilomenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\email\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\email\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\pessoa\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\pessoa\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\models\\tb_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\models\\tb_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\views\\pessoa\\editarperfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\views\\pessoa\\editarperfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\services\\isessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\services\\isessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\services\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\services\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\models\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\models\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\models\\mercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\models\\mercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\models\\listaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\models\\listaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|c:\\users\\victo\\onedrive - fatec centro paula souza\\documents\\pexinxa-origi-2sematt - copia\\pexinxa-origi-2sem\\pexinxa2sem-main\\pexinxa\\models\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72C4BB-4473-4887-9367-5F7D67D61D80}|Pexinxa\\Pexinxa.csproj|solutionrelative:pexinxa\\models\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEwAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "Pexinxa\\Views\\Home",
+              "WhenOpened": "2024-06-11T00:26:52.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Pessoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Create.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Pessoa\\Create.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAJ4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "Pexinxa\\Views\\Pessoa",
+              "WhenOpened": "2024-06-17T19:10:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ENiveis.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Repositories\\ADO\\SQLServer\\ENiveis.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Repositories\\ADO\\SQLServer\\ENiveis.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Repositories\\ADO\\SQLServer\\ENiveis.cs",
+              "RelativeToolTip": "Pexinxa\\Repositories\\ADO\\SQLServer\\ENiveis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:29:13.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Repositories\\ADO\\SQLServer\\EmailDAO.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Repositories\\ADO\\SQLServer\\EmailDAO.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Repositories\\ADO\\SQLServer\\EmailDAO.cs",
+              "RelativeToolTip": "Pexinxa\\Repositories\\ADO\\SQLServer\\EmailDAO.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Pexinxa\\Repositories\\ADO\\SQLServer",
+              "WhenOpened": "2024-06-17T19:03:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produtos.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Produtos\\Produtos.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Produtos\\Produtos.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Produtos\\Produtos.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Produtos\\Produtos.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:29:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mercado.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Mercados\\Mercado.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Mercados\\Mercado.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Mercados\\Mercado.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Mercados\\Mercado.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:25:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T14:42:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Repositories\\ADO\\SQLServer\\PessoaDAO.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Repositories\\ADO\\SQLServer\\PessoaDAO.cs",
+              "ToolTip": "Pexinxa/Repositories/ADO/SQLServer/PessoaDAO.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAQwA8BAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Pexinxa\\Repositories\\ADO\\SQLServer",
+              "OverriddenToolTip": "Pexinxa/Repositories/ADO/SQLServer/PessoaDAO.cs",
+              "WhenOpened": "2024-06-19T13:43:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Pexinxa\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Pexinxa\\Controllers",
+              "WhenOpened": "2024-06-19T13:24:53.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Lista\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Lista\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Lista\\Lista.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Lista\\Lista.cshtml",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:54:24.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "estiloMenu.css",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\wwwroot\\css\\estiloMenu.css",
+              "RelativeDocumentMoniker": "Pexinxa\\wwwroot\\css\\estiloMenu.css",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\wwwroot\\css\\estiloMenu.css",
+              "RelativeToolTip": "Pexinxa\\wwwroot\\css\\estiloMenu.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAIcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T17:07:30.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAYwJYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "Pexinxa\\Views\\Login",
+              "WhenOpened": "2024-06-19T13:26:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Email\\Email.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Email\\Email.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Email\\Email.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Email\\Email.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T00:26:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Pessoa\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\Adicionar.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Pessoa\\Adicionar.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T00:20:17.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Controllers\\PessoaController.cs",
+              "ToolTip": "Pexinxa/Controllers/PessoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Pexinxa\\Controllers",
+              "OverriddenToolTip": "Pexinxa/Controllers/PessoaController.cs",
+              "WhenOpened": "2024-06-12T11:16:49.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tb_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Tb_Usuario.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Models\\Tb_Usuario.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Tb_Usuario.cs",
+              "RelativeToolTip": "Pexinxa\\Models\\Tb_Usuario.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:09:05.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditarPerfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\EditarPerfil.cshtml",
+              "RelativeDocumentMoniker": "Pexinxa\\Views\\Pessoa\\EditarPerfil.cshtml",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Views\\Pessoa\\EditarPerfil.cshtml",
+              "RelativeToolTip": "Pexinxa\\Views\\Pessoa\\EditarPerfil.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:35:55.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Program.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Program.cs",
+              "RelativeToolTip": "Pexinxa\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:10:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISessao.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Services\\ISessao.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Services\\ISessao.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Services\\ISessao.cs",
+              "RelativeToolTip": "Pexinxa\\Services\\ISessao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:41:26.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Services\\Sessao.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Services\\Sessao.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Services\\Sessao.cs",
+              "RelativeToolTip": "Pexinxa\\Services\\Sessao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:42:32.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pessoas.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Pessoas.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Models\\Pessoas.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Pessoas.cs",
+              "RelativeToolTip": "Pexinxa\\Models\\Pessoas.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:50:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\appsettings.json",
+              "RelativeDocumentMoniker": "Pexinxa\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\appsettings.json",
+              "RelativeToolTip": "Pexinxa\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T19:09:05.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mercado.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Mercado.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Models\\Mercado.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Mercado.cs",
+              "RelativeToolTip": "Pexinxa\\Models\\Mercado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:35:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\ListaProduto.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Models\\ListaProduto.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\ListaProduto.cs",
+              "RelativeToolTip": "Pexinxa\\Models\\ListaProduto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:15:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Lista.cs",
+              "RelativeDocumentMoniker": "Pexinxa\\Models\\Lista.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Models\\Lista.cs",
+              "RelativeToolTip": "Pexinxa\\Models\\Lista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:12:45.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

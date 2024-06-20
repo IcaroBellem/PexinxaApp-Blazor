@@ -1,0 +1,265 @@
+﻿/*padrão para todos*/
+container {
+    display: block;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 0px 100px 0px;
+}
+/* 
+---------------------menu cabeçalho superior------------------
+ */
+div#menusup {
+    background-color: #00749C;
+    position: initial;
+    border-radius: 0px 0px 10px 10px;
+    display: block;
+    padding: 25px 25px 10px 25px;
+}
+
+/* menu logo img */
+img#menusup {
+    width: 80px;
+    height: 80px;
+}
+
+img#menusup2 {
+    display: none;
+}
+
+/* menu cadastro e login */
+div#log_cad_box {
+    color: #f2f2f2;
+    background-color: #13b1d479;
+    width: 200px;
+    border-radius: 35px;
+    padding: 5px;
+    display: flex;
+    float: right;
+    align-items: center;
+}
+
+p#log_cad {
+    margin: 0px;
+}
+
+div#log_cad_box a#log_cad {
+    text-decoration: none;
+    color: #f2f2f2;
+    text-decoration-line: underline;
+    font-weight: 700;
+}
+
+div#log_cad_box span {
+    font-size: 50px;
+    height: 50px;
+    text-align: center;
+    font-variation-settings: 'FILL' 1, 'wght' 100, 'GRAD' 0, 'opsz' 24
+}
+
+/* menu barra de pesquisa */
+div#barrapesquisa {
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+#pesquisa {
+    padding: 10px 20px;
+    margin: 10px 5px 0px 5px;
+    width: 95%;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+::placeholder {
+    font-family: 'Montserrat', sans-serif;
+    color: #EC5714;
+    font-size: 18px;
+}
+
+/* menu localização */
+p#loc {
+    margin: 0px;
+}
+
+#localizacao {
+    display: flex;
+    justify-content: center;
+    color: #f2f2f2;
+    font-size: 12px;
+    align-items: center;
+}
+
+    #localizacao span {
+        padding: 0px 5px 0px 0px;
+        font-size: 25px;
+        font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    }
+
+
+/*menu inferior que ficara junto ao superior no desktop*/
+#menuinferior2 {
+    text-decoration: none;
+    display: none;
+}
+
+    #menuinferior2 a#menu_inf2 {
+        text-decoration-color: none;
+        text-decoration: none;
+        font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    }
+
+li#limenuinf2 {
+    margin: 0px 10px 5px 10px;
+}
+
+
+/*
+--------------------menu inferior-----------------------------------------
+*/
+#menuinferior {
+    text-decoration: none;
+    display: flex;
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+}
+
+a#menu_inf {
+    display: flex;
+    text-decoration: none;
+    color: #00749C;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+ul#ulmenuinf {
+    display: inline-flex;
+    list-style: none;
+    padding: 0px;
+    justify-content: center;
+}
+
+    ul#ulmenuinf li#limenuinf {
+        color: #00749C;
+        display: flex;
+        font-size: 12px;
+        padding: 0px 20px 0px 20px;
+        align-items: center;
+        flex-direction: column;
+        font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    }
+
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 1260  DESKTOP pixels
+    */
+
+
+
+@media screen and (min-width:1260px ) {
+    /*menu*/
+    div#menuinferior {
+        display: none;
+    }
+
+    div#menuinferior2 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-content: center;
+    }
+
+        div#menuinferior2 a#menu_inf2 {
+            font-size: 13px;
+            padding: 5px;
+            display: flex;
+            color: #f2f2f2;
+            align-items: center;
+        }
+
+    li#limenuinf2:hover {
+        color: #003D64;
+        border-radius: 5px;
+        background-color: #3fb1d6;
+        transition: 2s;
+    }
+
+    ul#ulmenuinf li#limenuinf {
+        flex-direction: row;
+        font-size: 15px;
+        padding: 0px 20px 0px 20px;
+        color: #f2f2f2;
+    }
+
+    ul#ulmenuinf {
+        margin-bottom: 5px;
+    }
+
+    p#log_cad {
+        padding: 4px 4px;
+        margin: 0px 0px 0px 0px;
+    }
+
+    div#log_cad_box span {
+        padding: 0px;
+    }
+
+    img#menusup {
+        width: 55px;
+        height: 55px;
+    }
+
+    img#menusup2 {
+        display: initial;
+        width: 150px;
+        padding-bottom: 10px;
+    }
+
+    div#menusup {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+    }
+
+    container {
+        z-index: 2;
+        margin-top: 230px;
+    }
+
+    #pesquisa {
+        width: 50%;
+    }
+}
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 530 e menor que 900  pixels tablet
+*/
+@media screen and (min-width:530px) and (max-width:1260px) {
+    img#menusup2 {
+        display: initial;
+        width: 150px;
+        padding-bottom: 10px;
+    }
+
+    #pesquisa {
+        width: 55%;
+    }
+
+    div#menuinferior li#limenuinf {
+        padding: 0px 30px 0px 30px;
+    }
+}

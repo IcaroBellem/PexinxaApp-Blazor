@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Pexinxa</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/estiloHome.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Pexinxa.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <img width=125px id='logo_footer' src='~/images/logotipo.png' alt='Logo'><p>Criado por: equipe Pexinxa</p>
+
+        <div class='social'>
+            <a id='icon_media' href='#'><img src='https://cdn2.iconfinder.com/data/icons/social-networks-18/100/Instagram_logo-256.png' alt='Instagram'></a>
+            <a id='icon_media' href='#'><img src='https://cdn0.iconfinder.com/data/icons/brands-outlined-3/194/facebook-social-network-brand-logo-256.png' alt='Facebook'></a>
+            <a id='icon_media' href='#'><img src='https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png' alt='Twitter/ X'></a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

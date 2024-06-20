@@ -1,0 +1,358 @@
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfoInputs.cache
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfo.cs
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.csproj.CoreCompileInputs.cache
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cache
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cs
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.staticwebassets.runtime.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.exe
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.deps.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.runtimeconfig.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.dll
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.pdb
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.build.Pexinxa.props
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pexinxa.props
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pexinxa.props
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/bundle/Pexinxa.styles.css
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/projectbundle/Pexinxa.bundle.scp.css
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.dll
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/refint/Pexinxa.dll
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.pdb
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.genruntimeconfig.cache
+C:/Users/victo/OneDrive/Documentos/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/ref/Pexinxa.dll
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.staticwebassets.runtime.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.exe
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.deps.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.runtimeconfig.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.dll
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.pdb
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfoInputs.cache
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfo.cs
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.csproj.CoreCompileInputs.cache
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cache
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cs
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.build.Pexinxa.props
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pexinxa.props
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pexinxa.props
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/bundle/Pexinxa.styles.css
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/projectbundle/Pexinxa.bundle.scp.css
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.dll
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/refint/Pexinxa.dll
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.pdb
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.genruntimeconfig.cache
+C:/Users/vinicius.priuli/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/ref/Pexinxa.dll
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/appsettings.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.staticwebassets.runtime.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.exe
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.deps.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.runtimeconfig.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.dll
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/bin/Debug/net6.0/Pexinxa.pdb
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfoInputs.cache
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfo.cs
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.csproj.CoreCompileInputs.cache
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cache
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cs
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.build.Pexinxa.props
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pexinxa.props
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pexinxa.props
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/bundle/Pexinxa.styles.css
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/scopedcss/projectbundle/Pexinxa.bundle.scp.css
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.dll
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/refint/Pexinxa.dll
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.pdb
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/Pexinxa.genruntimeconfig.cache
+C:/Users/victo/Downloads/PEXINXAmvc/PEXINXAmvc/Pexinxa/Pexinxa/obj/Debug/net6.0/ref/Pexinxa.dll
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/appsettings.Development.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/appsettings.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa.staticwebassets.runtime.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa.deps.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa.runtimeconfig.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa.dll
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/bin/Debug/net6.0/Pexinxa.pdb
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.csproj.AssemblyReference.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfoInputs.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.AssemblyInfo.cs
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.csproj.CoreCompileInputs.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.RazorAssemblyInfo.cs
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.build.Pexinxa.props
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pexinxa.props
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pexinxa.props
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/scopedcss/bundle/Pexinxa.styles.css
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/scopedcss/projectbundle/Pexinxa.bundle.scp.css
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.dll
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/refint/Pexinxa.dll
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.pdb
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/Pexinxa.genruntimeconfig.cache
+/Users/mateusgl/Downloads/Pexinxa2Sem-main/Pexinxa/obj/Debug/net6.0/ref/Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\refint\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.staticwebassets.runtime.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.exe
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.deps.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.runtimeconfig.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.build.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\bundle\Pexinxa.styles.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\projectbundle\Pexinxa.bundle.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.Up2Date
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.genruntimeconfig.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\ref\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\refint\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.staticwebassets.runtime.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.exe
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.deps.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.runtimeconfig.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.build.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\bundle\Pexinxa.styles.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\projectbundle\Pexinxa.bundle.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.Up2Date
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.genruntimeconfig.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\ref\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.AssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\refint\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\appsettings.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.staticwebassets.runtime.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.exe
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.deps.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.runtimeconfig.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Pexinxa.pdb
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.Pexinxa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.build.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pexinxa.props
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\bundle\Pexinxa.styles.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\scopedcss\projectbundle\Pexinxa.bundle.scp.css
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.csproj.Up2Date
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\Pexinxa.genruntimeconfig.cache
+C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\obj\Debug\net6.0\ref\Pexinxa.dll

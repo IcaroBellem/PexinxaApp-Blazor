@@ -1,0 +1,182 @@
+﻿/* categorias*/
+#cat {
+    padding: 30px;
+    position: sticky;
+    top: 0;
+    overflow-x: auto;
+    white-space: nowrap;
+    background-color: white;
+    z-index: 1000;
+}
+
+    #cat ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    #cat li {
+        display: inline;
+        margin-right: 1em;
+    }
+
+    #cat a {
+        text-decoration: none;
+        color: #D34404;
+        padding: 10px;
+    }
+
+        #cat a.active {
+            border-bottom: 2px solid #D34404;
+            background-color: #ffc2a5a9;
+        }
+
+
+/*categoria de produtos e informações de produtos*/
+h1.categorias {
+    text-align: left;
+    margin-left: 5%;
+    font-size: 35px;
+    background-image: linear-gradient(to bottom, #EC5714,#FA9D51); /*cria gradiente na font*/
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0px;
+}
+
+.box-prod {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img_produto {
+    height: 120px;
+}
+
+.img_mercado {
+    width: 15%;
+}
+
+div#prod {
+    color: #003D64;
+    text-align: center;
+    border: 1px solid #D9D9D9;
+    border-radius: 25px;
+    width: 45%;
+    padding: 2px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: capitalize;
+}
+
+p.mercado {
+    font-size: 60%;
+    margin-bottom: 0px;
+}
+
+p.desc_prod {
+    margin-bottom: 0px;
+    font-size: 80%;
+}
+
+p.preco {
+    font-variation-settings: 'FILL' 1, 'wght' 1000, 'GRAD' 0, 'opsz' 24;
+    font-size: 150%;
+    margin: 7px 0px 0px 0px;
+    padding: 0px 0px 5px;
+}
+
+    p.preco span {
+        font-size: 20px;
+        padding: 4px;
+    }
+
+
+
+
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 1000 desktop pixels
+    */
+
+
+
+@media screen and (min-width: 1260px) {
+
+    div#cat {
+        text-align: center;
+        display: inline;
+        position: fixed;
+        overflow-x: auto;
+        margin-top: 230px;
+        width: 100%;
+        padding: 10px;
+    }
+
+
+    /*produtos*/
+
+    h1.categorias {
+        padding: 35px 0px 15px 0px;
+        margin-left: 18%;
+    }
+
+    div#prod {
+        width: 15%;
+        padding: 10px;
+        margin: 5px;
+    }
+
+        div#prod:hover {
+            box-shadow: 5px 5px 10px #afafaf;
+            transition-duration: 0.7s;
+        }
+
+
+    p.mercado {
+        font-size: 90%;
+    }
+
+    p.desc_prod {
+        margin-bottom: 0px;
+        font-size: 80%;
+    }
+
+    p.preco {
+        font-size: 180%;
+    }
+
+        p.preco span {
+            font-size: 30px;
+            padding: 4px;
+        }
+
+    .img_produto {
+        height: 150px;
+    }
+
+    .img_mercado {
+        width: 25px;
+    }
+}
+
+
+/* 
+    ------------------RESPONSIVIDADE--------------------------------------------------------------------------------------------------------------------------------------------
+                    maior que 530 e menor que 900  pixels tablet
+*/
+@media screen and (min-width:530px) and (max-width:1260px) {
+
+    .img_mercado {
+        width: 25px;
+    }
+}
