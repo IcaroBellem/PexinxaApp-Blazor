@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pexinxa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d67a330b70d4e45f5ee0b331151e3f458b51009")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pexinxa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pexinxa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

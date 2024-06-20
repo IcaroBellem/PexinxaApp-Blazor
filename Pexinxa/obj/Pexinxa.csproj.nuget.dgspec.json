@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Pexinxa.csproj": {}
+    "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\Pexinxa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Pexinxa.csproj": {
+    "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\Pexinxa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Pexinxa.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\Pexinxa.csproj",
         "projectName": "Pexinxa",
-        "projectPath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Pexinxa.csproj",
+        "projectPath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\Pexinxa.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\obj\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

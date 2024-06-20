@@ -9,83 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pexinxa
 build_property.RootNamespace = Pexinxa
-build_property.ProjectDir = C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa\
+build_property.ProjectDir = C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\PX2Sem\PexinxaApp-Blazor\Pexinxa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\pexinxa-origi-2sematt - Copia\pexinxa-origi-2sem\Pexinxa2Sem-main\Pexinxa
+build_property.MSBuildProjectDirectory = C:\Users\victo\OneDrive - Fatec Centro Paula Souza\Documents\PX2Sem\PexinxaApp-Blazor\Pexinxa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Cadastro/Cadastro.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Cadastro/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cQ2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Email/Email.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Email/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Home/Index.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Lista/Lista.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Lista/Lista.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFcTGlzdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Login/Login.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Mercados/Mercado.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Mercados/Mercado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVyY2Fkb3NcTWVyY2Fkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/Adicionar.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/Adicionar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXEFkaWNpb25hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/Create.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/Detalhes.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXERldGFsaGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/Editar.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/EditarPerfil.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/EditarPerfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXEVkaXRhclBlcmZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Pessoa/Index.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Pessoa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Produtos/Produtos.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Produtos/Produtos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcUHJvZHV0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Shared/Error.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/_ViewImports.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/_ViewStart.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/pexinxa-origi-2sematt - Copia/pexinxa-origi-2sem/Pexinxa2Sem-main/Pexinxa/Views/Shared/_Layout.cshtml]
+[C:/Users/victo/OneDrive - Fatec Centro Paula Souza/Documents/PX2Sem/PexinxaApp-Blazor/Pexinxa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pcn77kom0z

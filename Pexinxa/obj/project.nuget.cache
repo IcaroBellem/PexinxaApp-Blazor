@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jasbwbeMNBI=",
+  "dgSpecHash": "myPD91VjVSA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\pexinxa-origi-2sematt - Copia\\pexinxa-origi-2sem\\Pexinxa2Sem-main\\Pexinxa\\Pexinxa.csproj",
+  "projectFilePath": "C:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\Documents\\PX2Sem\\PexinxaApp-Blazor\\Pexinxa\\Pexinxa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
